@@ -114,12 +114,6 @@ Ce script Python fournit une interface graphique (GUI) sous PyQt5 pour surveille
    * Vérifiez que vous avez accès à Internet et que `speedtest-cli` (ou `speedtest`) est installé.
    * Contrôlez les imports de `requests` pour le fallback HTTP.
 
----
 
-## Licence
-
-Ce projet est distribué sous licence MIT. N’hésitez pas à forker et adapter !
-
----
 
 *Script développé pour détecter et documenter automatiquement les dégradations de service réseau.*
